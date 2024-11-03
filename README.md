@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning Web Development
+- Learning Web Development
 - Building My Idea
 - My Linkedin: [Here](https://www.linkedin.com/in/naveen-kumar-v-link/)
 
