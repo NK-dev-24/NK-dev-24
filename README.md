@@ -1,6 +1,9 @@
-## Hi there 👋
-- Learning Web Development
-- Building My Idea
+## Hey Hi, I'm Naveen (Your LandingPage Guy)
+- Designer (More than it actually)
+- Making My Idea & Your's come to the world 
+
+## Links:
+- Portfolio: [NaveenKumarV](naveenkumarv.com)
 - My Linkedin: [Here](https://www.linkedin.com/in/naveen-kumar-v-link/)
 
 
